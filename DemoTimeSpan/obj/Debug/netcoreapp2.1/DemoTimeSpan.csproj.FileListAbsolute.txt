@@ -1,0 +1,11 @@
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_TimeSpan\DemoTimeSpan\bin\Debug\netcoreapp2.1\DemoTimeSpan.deps.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_TimeSpan\DemoTimeSpan\bin\Debug\netcoreapp2.1\DemoTimeSpan.runtimeconfig.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_TimeSpan\DemoTimeSpan\bin\Debug\netcoreapp2.1\DemoTimeSpan.runtimeconfig.dev.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_TimeSpan\DemoTimeSpan\bin\Debug\netcoreapp2.1\DemoTimeSpan.dll
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_TimeSpan\DemoTimeSpan\bin\Debug\netcoreapp2.1\DemoTimeSpan.pdb
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_TimeSpan\DemoTimeSpan\obj\Debug\netcoreapp2.1\DemoTimeSpan.csprojAssemblyReference.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_TimeSpan\DemoTimeSpan\obj\Debug\netcoreapp2.1\DemoTimeSpan.csproj.CoreCompileInputs.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_TimeSpan\DemoTimeSpan\obj\Debug\netcoreapp2.1\DemoTimeSpan.AssemblyInfoInputs.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_TimeSpan\DemoTimeSpan\obj\Debug\netcoreapp2.1\DemoTimeSpan.AssemblyInfo.cs
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_TimeSpan\DemoTimeSpan\obj\Debug\netcoreapp2.1\DemoTimeSpan.dll
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_TimeSpan\DemoTimeSpan\obj\Debug\netcoreapp2.1\DemoTimeSpan.pdb
